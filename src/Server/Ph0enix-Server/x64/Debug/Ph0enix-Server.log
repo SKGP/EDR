@@ -1,0 +1,10 @@
+﻿  Agent.cpp
+  DataAccess.cpp
+C:\Users\jcrh1\Desktop\SK\Ph0enix\ph0enix\Ph0enix\Server\Ph0enix-Server\Ph0enix-Server\stdafx.h(13,10): fatal error C1083: Cannot open include file: 'mysql.h': No such file or directory
+  main.cpp
+C:\Users\jcrh1\Desktop\SK\Ph0enix\ph0enix\Ph0enix\Server\Ph0enix-Server\Ph0enix-Server\stdafx.h(13,10): fatal error C1083: Cannot open include file: 'mysql.h': No such file or directory
+  Server.cpp
+C:\Users\jcrh1\Desktop\SK\Ph0enix\ph0enix\Ph0enix\Server\Ph0enix-Server\Ph0enix-Server\stdafx.h(13,10): fatal error C1083: Cannot open include file: 'mysql.h': No such file or directory
+  WSAInitializer.cpp
+C:\Users\jcrh1\Desktop\SK\Ph0enix\ph0enix\Ph0enix\Server\Ph0enix-Server\Ph0enix-Server\stdafx.h(13,10): fatal error C1083: Cannot open include file: 'mysql.h': No such file or directory
+  Generating Code...

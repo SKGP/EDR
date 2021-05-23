@@ -1,0 +1,53 @@
+﻿  Communicator.cpp
+C:\Users\jcrh1\Desktop\SK\Ph0enix\ph0enix\Ph0enix\Server\Ph0enix-Server\mysql\connector\include\cppconn\exception.h(78,30): warning C4251: 'sql::SQLException::sql_state': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'sql::SQLException'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\include\xstring(4564): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\jcrh1\Desktop\SK\Ph0enix\ph0enix\Ph0enix\Server\Ph0enix-Server\mysql\connector\include\cppconn\exception.h(162,27): warning C4251: 'sql::SQLUnsupportedOptionException::option': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of struct 'sql::SQLUnsupportedOptionException'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\include\xstring(4564): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+  DataAccess.cpp
+C:\Users\jcrh1\Desktop\SK\Ph0enix\ph0enix\Ph0enix\Server\Ph0enix-Server\mysql\connector\include\cppconn\exception.h(78,30): warning C4251: 'sql::SQLException::sql_state': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'sql::SQLException'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\include\xstring(4564): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\jcrh1\Desktop\SK\Ph0enix\ph0enix\Ph0enix\Server\Ph0enix-Server\mysql\connector\include\cppconn\exception.h(162,27): warning C4251: 'sql::SQLUnsupportedOptionException::option': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of struct 'sql::SQLUnsupportedOptionException'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\include\xstring(4564): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\jcrh1\Desktop\SK\Ph0enix\ph0enix\Ph0enix\Agent\Ph0enix-Agent\Ph0enix-Agent\DataAccess.cpp(31,40): warning C4311: '<function-style-cast>': pointer truncation from 'sql::ResultSet *' to 'int'
+C:\Users\jcrh1\Desktop\SK\Ph0enix\ph0enix\Ph0enix\Agent\Ph0enix-Agent\Ph0enix-Agent\DataAccess.cpp(31,40): warning C4302: '<function-style-cast>': truncation from 'sql::ResultSet *' to 'int'
+  helpCPU.cpp
+C:\Users\jcrh1\Desktop\SK\Ph0enix\ph0enix\Ph0enix\Server\Ph0enix-Server\mysql\connector\include\cppconn\exception.h(78,30): warning C4251: 'sql::SQLException::sql_state': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'sql::SQLException'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\include\xstring(4564): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\jcrh1\Desktop\SK\Ph0enix\ph0enix\Ph0enix\Server\Ph0enix-Server\mysql\connector\include\cppconn\exception.h(162,27): warning C4251: 'sql::SQLUnsupportedOptionException::option': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of struct 'sql::SQLUnsupportedOptionException'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\include\xstring(4564): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\jcrh1\Desktop\SK\Ph0enix\ph0enix\Ph0enix\Agent\Ph0enix-Agent\Ph0enix-Agent\helpCPU.cpp(46,9): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  main.cpp
+C:\Users\jcrh1\Desktop\SK\Ph0enix\ph0enix\Ph0enix\Server\Ph0enix-Server\mysql\connector\include\cppconn\exception.h(78,30): warning C4251: 'sql::SQLException::sql_state': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'sql::SQLException'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\include\xstring(4564): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\jcrh1\Desktop\SK\Ph0enix\ph0enix\Ph0enix\Server\Ph0enix-Server\mysql\connector\include\cppconn\exception.h(162,27): warning C4251: 'sql::SQLUnsupportedOptionException::option': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of struct 'sql::SQLUnsupportedOptionException'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\include\xstring(4564): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\jcrh1\Desktop\SK\Ph0enix\ph0enix\Ph0enix\Agent\Ph0enix-Agent\Ph0enix-Agent\main.cpp(7,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Server.cpp
+C:\Users\jcrh1\Desktop\SK\Ph0enix\ph0enix\Ph0enix\Server\Ph0enix-Server\mysql\connector\include\cppconn\exception.h(78,30): warning C4251: 'sql::SQLException::sql_state': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'sql::SQLException'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\include\xstring(4564): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\jcrh1\Desktop\SK\Ph0enix\ph0enix\Ph0enix\Server\Ph0enix-Server\mysql\connector\include\cppconn\exception.h(162,27): warning C4251: 'sql::SQLUnsupportedOptionException::option': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of struct 'sql::SQLUnsupportedOptionException'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\include\xstring(4564): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+  Sniffer.cpp
+C:\Users\jcrh1\Desktop\SK\Ph0enix\ph0enix\Ph0enix\Server\Ph0enix-Server\mysql\connector\include\cppconn\exception.h(78,30): warning C4251: 'sql::SQLException::sql_state': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'sql::SQLException'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\include\xstring(4564): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\jcrh1\Desktop\SK\Ph0enix\ph0enix\Ph0enix\Server\Ph0enix-Server\mysql\connector\include\cppconn\exception.h(162,27): warning C4251: 'sql::SQLUnsupportedOptionException::option': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of struct 'sql::SQLUnsupportedOptionException'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\include\xstring(4564): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\jcrh1\Desktop\SK\Ph0enix\ph0enix\Ph0enix\Agent\Ph0enix-Agent\Ph0enix-Agent\Sniffer.cpp(397,4): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  upTime.cpp
+C:\Users\jcrh1\Desktop\SK\Ph0enix\ph0enix\Ph0enix\Server\Ph0enix-Server\mysql\connector\include\cppconn\exception.h(78,30): warning C4251: 'sql::SQLException::sql_state': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'sql::SQLException'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\include\xstring(4564): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\jcrh1\Desktop\SK\Ph0enix\ph0enix\Ph0enix\Server\Ph0enix-Server\mysql\connector\include\cppconn\exception.h(162,27): warning C4251: 'sql::SQLUnsupportedOptionException::option': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of struct 'sql::SQLUnsupportedOptionException'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\include\xstring(4564): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\jcrh1\Desktop\SK\Ph0enix\ph0enix\Ph0enix\Agent\Ph0enix-Agent\Ph0enix-Agent\upTime.cpp(13,27): warning C4244: 'initializing': conversion from 'ULONGLONG' to 'int', possible loss of data
+C:\Users\jcrh1\Desktop\SK\Ph0enix\ph0enix\Ph0enix\Agent\Ph0enix-Agent\Ph0enix-Agent\upTime.cpp(75,36): warning C4244: 'return': conversion from 'ULONGLONG' to 'int', possible loss of data
+  WSAInitializer.cpp
+C:\Users\jcrh1\Desktop\SK\Ph0enix\ph0enix\Ph0enix\Server\Ph0enix-Server\mysql\connector\include\cppconn\exception.h(78,30): warning C4251: 'sql::SQLException::sql_state': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'sql::SQLException'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\include\xstring(4564): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\jcrh1\Desktop\SK\Ph0enix\ph0enix\Ph0enix\Server\Ph0enix-Server\mysql\connector\include\cppconn\exception.h(162,27): warning C4251: 'sql::SQLUnsupportedOptionException::option': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of struct 'sql::SQLUnsupportedOptionException'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\include\xstring(4564): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+  Generating code
+  317 of 444 functions (71.4%) were compiled, the rest were copied from previous compilation.
+    246 functions were new in current compilation
+    31 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Ph0enix-Agent.vcxproj -> C:\Users\jcrh1\Desktop\SK\Ph0enix\ph0enix\Ph0enix\Agent\Ph0enix-Agent\x64\Release\Ph0enix-Agent.exe
